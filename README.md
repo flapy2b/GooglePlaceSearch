@@ -1,6 +1,6 @@
 # GooglePlaceSearch
 
-GooglePlaceSearch is a Java code who allow to make requests to GoogleMaps to get interest points in an geographical area.
+GooglePlaceSearch is a Java code who allows to make requests to GoogleMaps and get interest points in an geographical area.
 
 ## Setup
 
